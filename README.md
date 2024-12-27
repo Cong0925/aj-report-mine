@@ -28,10 +28,10 @@
 
 注： node安装之后应该会自动添加环境变量，我这里截取的是jdk和maven的，这两个我安装后是手动添加的，最好检查一下
 打开cmd:
-java -version  输出 java version "1.8.0_301"
-node -v 输出 java version "1.8.0_301"
-echo %JAVA_HOME% 输出 你的环境变量配置位置
-echo %MAVEN_HOME% 输出 你的环境变量配置位置
+1. java -version  输出 java version "1.8.0_301"
+2. node -v 输出 java version "1.8.0_301"
+3. echo %JAVA_HOME% 输出 你的环境变量配置位置
+4. echo %MAVEN_HOME% 输出 你的环境变量配置位置
 ![alt text](./readme-imgs/image-16.png)
 
 # 数据库准备以及相关代码修改
