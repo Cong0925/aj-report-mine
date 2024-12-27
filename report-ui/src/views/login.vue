@@ -477,8 +477,8 @@ export default {
         }
         .show_pwd {
           position: absolute;
-          right: 10px;
-          top: 0;
+          right: 20px;
+          top: 6px;
           font-size: 16px;
           color: #889aa4;
           cursor: pointer;
